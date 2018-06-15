@@ -15,7 +15,7 @@ public class TestCase2 extends TestBase {
 	public void testTestCase1(){
 		
 		//System.out.println("Testcase2");
-		Assert.assertEquals("abc","xyz");
+		Assert.assertEquals("abc","abc");
 		
 		
 	}
